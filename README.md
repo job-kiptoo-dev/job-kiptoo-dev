@@ -30,15 +30,14 @@
   I'm a <b>Full-Stack Developer</b> crafting high-performance apps with <b>React, TypeScript, and Node.js</b>. I’m obsessed with <b>backend architecture</b>, <b>blockchain</b>, and perfecting my <b>Neovim</b> setup on Linux. When not coding, I'm sipping ☕ or contributing to open-source projects.
 </p>
 <p align="center" style="font-family: 'Roboto Mono', monospace; font-size: 14px; color: #F8F8F2;">
-  💡 <b>Currently mastering:</b> System Design<br>
+  💡 <b>Currently mastering:</b> Rust & System Design<br>
   🤝 <b>Let’s build something epic:</b> Hit me up on <a href="https://www.linkedin.com/in/kiptoojob/" style="color: #BD93F9;">LinkedIn</a>!
 </p>
 
-<!-- Tech Stack -->
+<!-- Tech Stack (Flattened, No Boxes) -->
 <h2 align="center" style="font-family: 'Orbitron', sans-serif; color: #FF5555;">🛠️ Tech Stack</h2>
 <div align="center" style="font-family: 'Roboto Mono', monospace;">
   <p>
-    <kbd><b>Frontend</b></kbd><br><br>
     <img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&labelColor=282A36" style="margin: 3px;">
     <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&labelColor=282A36" style="margin: 3px;">
     <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&labelColor=282A36" style="margin: 3px;">
@@ -46,18 +45,12 @@
     <img alt="Redux" src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&labelColor=282A36" style="margin: 3px;">
     <img alt="GraphQL" src="https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&labelColor=282A36" style="margin: 3px;">
     <img alt="React Query" src="https://img.shields.io/badge/React%20Query-FF4154?style=flat&logo=reactquery&labelColor=282A36" style="margin: 3px;">
-  </p>
-  <p>
-    <kbd><b>Backend</b></kbd><br><br>
     <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&labelColor=282A36" style="margin: 3px;">
     <img alt="Express" src="https://img.shields.io/badge/Express-000000?style=flat&logo=express&labelColor=282A36" style="margin: 3px;">
     <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&labelColor=282A36" style="margin: 3px;">
     <img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&labelColor=282A36" style="margin: 3px;">
     <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&labelColor=282A36" style="margin: 3px;">
     <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&labelColor=282A36" style="margin: 3px;">
-  </p>
-  <p>
-    <kbd><b>DevOps</b></kbd><br><br>
     <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&labelColor=282A36" style="margin: 3px;">
     <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&labelColor=282A36" style="margin: 3px;">
     <img alt="CI/CD" src="https://img.shields.io/badge/CI/CD-181717?style=flat&logo=githubactions&labelColor=282A36" style="margin: 3px;">
@@ -65,9 +58,6 @@
     <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&labelColor=282A36" style="margin: 3px;">
     <img alt="Nginx" src="https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&labelColor=282A36" style="margin: 3px;">
     <img alt="Ngrok" src="https://img.shields.io/badge/Ngrok-1F1E37?style=flat&logo=ngrok&labelColor=282A36" style="margin: 3px;">
-  </p>
-  <p>
-    <kbd><b>Tools</b></kbd><br><br>
     <img alt="Neovim" src="https://img.shields.io/badge/Neovim-57A143?style=flat&logo=neovim&labelColor=282A36" style="margin: 3px;">
     <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&labelColor=282A36" style="margin: 3px;">
     <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&labelColor=282A36" style="margin: 3px;">
