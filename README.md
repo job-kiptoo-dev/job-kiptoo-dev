@@ -30,7 +30,7 @@
   I'm a <b>Full-Stack Developer</b> crafting high-performance apps with <b>React, TypeScript, and Node.js</b>. I’m obsessed with <b>backend architecture</b>, <b>blockchain</b>, and perfecting my <b>Neovim</b> setup on Linux. When not coding, I'm sipping ☕ or contributing to open-source projects.
 </p>
 <p align="center" style="font-family: 'Roboto Mono', monospace; font-size: 14px; color: #F8F8F2;">
-  💡 <b>Currently mastering:</b> Rust & System Design<br>
+  💡 <b>Currently mastering:</b> System Design<br>
   🤝 <b>Let’s build something epic:</b> Hit me up on <a href="https://www.linkedin.com/in/kiptoojob/" style="color: #BD93F9;">LinkedIn</a>!
 </p>
 
