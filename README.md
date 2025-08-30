@@ -94,7 +94,7 @@ You can click the Preview link to take a look at your changes.
 <h2 align="center" >Current Stats</h2>
 
 <div align="center">
-<a href="https://github.com/CAPTAIN-JOB">
+<a href="https://github.com/job-kiptoo-dev">
       <img alt="Job's streak" src="https://github-readme-streak-stats-9m8ugfa77-denvercoder1.vercel.app/?user=captain-job&theme=monokai-metallian&border_radius=0&card_width=417&card_height=194&background=0D1017&fire=E8EDF3&currStreakNum=E8EDF3&sideNums=E8EDF3&currStreakLabel=E8EDF3&sideLabels=E8EDF3F0&dates=E8EDF3D5&ring=E8EDF3F0&card_width=400&card_height=195"/>
     </a>
   <a href="https://github.com/CAPTAIN-JOB">
@@ -112,7 +112,7 @@ You can click the Preview link to take a look at your changes.
 
 
 ![Static Badge](https://img.shields.io/badge/Thanks%20for%20visiting!-05122A)
-![GitHub followers](https://img.shields.io/github/followers/captain-job?style=flat&logo=github&color=05122A&labelColor=05122A)
+![GitHub followers](https://img.shields.io/github/followers/job-kiptoo-dev?style=flat&logo=github&color=05122A&labelColor=05122A)
 ![Profile Views](https://komarev.com/ghpvc/?username=captain-job&style=flat&labelolor=05122A&color=05122A)
 </div>
 
